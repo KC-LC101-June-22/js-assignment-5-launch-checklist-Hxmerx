@@ -1,8 +1,7 @@
 // Write your JavaScript code here!
 
-const { myFetch, pickPlanet, addDestinationInfo } = require("./scriptHelper");
-
-const { formSubmission } = require("./scriptHelper");
+// const { myFetch, pickPlanet, addDestinationInfo } = require("./scriptHelper");
+// const { formSubmission } = require("./scriptHelper");
 
 window.addEventListener("load", function () {
   let faultyItemList = document.getElementById("faultyItems");
